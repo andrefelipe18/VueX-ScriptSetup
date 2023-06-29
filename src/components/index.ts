@@ -1,0 +1,7 @@
+export { default as ConfiguracaoEquipe } from './ConfiguracaoEquipe.vue'
+export { default as Equipamentos } from './Equipamentos.vue'
+export { default as Equipes } from './Equipes.vue'
+export { default as Index } from './Index.vue'
+export { default as Item } from './Item.vue'
+export { default as ListaItens } from './ListaItens.vue'
+export { default as Profissionais } from './Profissionais.vue'
